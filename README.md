@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋, me llamo Germán Figueroa</h1>
 <h3 align="center">Soy un apasionado del desarrollo web residiendo en España</h3><br>
-![](https://ibb.co/4dc9P1K)
+![](https://i.ibb.co/wsT3McB/background.png)
 
 - 👨‍💻 Mis proyectos están disponibles en [www.germanf.com]
 
