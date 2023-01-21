@@ -1,6 +1,6 @@
-<h1 align="center">Hola 👋, me llamo Germán Figueroa</h1>
-<h3 align="center">Soy un apasionado del desarrollo web residiendo en España</h3><br>
-<p align="center">
+<h1 align="left">Hola 👋, me llamo Germán Figueroa</h1>
+<h3 align="left">Soy un apasionado del desarrollo web residiendo en España</h3><br>
+<p align="left">
 <img src="https://i.ibb.co/3SHcMS9/background.jpg" alt="background" border="0" width="400" height="400">
 </p>
 
