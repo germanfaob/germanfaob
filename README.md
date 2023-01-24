@@ -13,9 +13,9 @@
 
 <h3 align="left">¿Hablamos?</h3>
 <p align="left">
-<a href="https://codepen.io/https://codepen.io/carlossalvadordiaz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="https://codepen.io/carlossalvadordiaz" height="30" width="40" />https://germadev.com</a>
+<a href="https://germadev.com" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="https://codepen.io/carlossalvadordiaz" height="30" width="40" />https://germadev.com</a>
 
-<a href="https://www.linkedin.com/in/germanfig/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/germanfig/" height="30" width="40" />Linkedin</a>
+<a href="https://www.linkedin.com/in/germanfig/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/germanfig/" height="30" width="40" />Linkedin</a>
 
 <a href="mailto:germanfaob@gmail.com " target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="carlos salvador díaz" height="30" width="40" />germanfaob@gmail.com</a>
 </p>
