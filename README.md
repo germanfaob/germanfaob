@@ -1,7 +1,7 @@
 <h1 align="left">Hola 👋, me llamo Germán Figueroa</h1>
 <h3 align="left">Soy un apasionado del desarrollo web residiendo en España</h3><br>
 
-- 👨‍💻 Mis proyectos están disponibles en [www.germanf.com]
+- 👨‍💻 Mis proyectos están disponibles en [https://germadev.com] o en los repositorios de GitHub
 
 - 🌱 Actualmente continúo reforzando mis conocimientos en Python, JavaScript y otros frameworks
 
